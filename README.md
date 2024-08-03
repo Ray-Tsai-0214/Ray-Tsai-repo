@@ -1,2 +1,2 @@
-# Ray-s-repo
-Im the best
+# Ray-Tsai-repo
+Ray's learning section
