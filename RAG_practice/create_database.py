@@ -49,7 +49,7 @@ def save_to_chroma(chunks: list[Document]):
     
     # Create a new DB from the documents.
     db = Chroma.from_documents(
-        chunks, OpenAIEmbeddings(openai_api_key="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"), persist_directory=CHROMA_PATH
+        chunks, OpenAIEmbeddings(openai_api_key="OPENAI_API_KEY"), persist_directory=CHROMA_PATH
     )
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")

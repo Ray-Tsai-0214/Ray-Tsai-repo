@@ -25,13 +25,13 @@ Question: {question}
 Your answer should consider relevant information you know.
 """
 
+
 def main():
     # Create CLI.
     query_text = input("Please enter your query: ")
 
-
     # Prepare the DB.
-    embedding_function = OpenAIEmbeddings(openai_api_key="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")
+    embedding_function = OpenAIEmbeddings(openai_api_key="OPENAI_API_KEY")
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
 
     # Search the DB.
@@ -45,7 +45,7 @@ def main():
     prompt = prompt_template.format(context=context_text, question=query_text)
     print(prompt)
      # Response based on database context
-    model = ChatOpenAI(openai_api_key="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")
+    model = ChatOpenAI(openai_api_key="OPENAI_API_KEY")
     response_text = model.predict(prompt)
 
     sources = [doc.metadata.get("source", None) for doc, _score in results]
@@ -57,6 +57,7 @@ def main():
     gpt_based_response = model.predict(gpt_only_prompt)
     print("\nResponse based on GPT-3 knowledge only:")
     print(gpt_based_response)
+
 
 if __name__ == "__main__":
     main()
