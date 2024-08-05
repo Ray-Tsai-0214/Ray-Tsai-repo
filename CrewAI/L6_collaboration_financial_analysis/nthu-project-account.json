@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nthu-project-427703",
+  "private_key_id": "6c43f08061f117c04ddf0eb755bc3a4ade3660ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJgCsDqKT4f2Lw\nh55Kt3PfTk/u+62FFhoBTebcW1800wQFB7wHzRWN1o/YwLWJLYEw64YAPXc9c/fZ\nGseqmVf8wU4polvY28DFuihCKB0EtNls05zfzwQCCm+D8+QvXGgDl57k+SNGdcl8\n6tm/OcCc9n3cWxXb8cPEcL+5YGaLoyNakWnwxuL9AZ234pbTforCa2d/6m9nXLZf\n00gyS2yxb5dtebpvaUbA9x091hlnt4AFi1LlNm5Npq9rbkBXmEl8Oq5Xfz/ZwYEF\nGKsYKrnw3N/txdeXS5J+Xc5RcbuKBkduAcJJicg44Lbje9U0U0G4Fkg6DMpVdTRH\nhA4gm6M9AgMBAAECggEAH5VKjBEZL6EnC0PDdrsTyQe2cZjqvwaYG5OWwyfTwxDz\nO+qOZKZVXJqbuPhu2l8S7Tc0NOrpcDqqg/pUQZnubXbDaunJuhKkAWbkp2mKXNHj\nnU0wG/Jzo7pc6gzD7aMGm0ig7UxSr3UPvns9X+C2nvc5arubVkV+p6kUSNLdSxZs\nKFcxXt+BmRcgXjwYg3jGvGEqEKx3U97goQjyzDIfS3D3HPIGk7b/dABefyP7VdFj\n9PQNkYHpPj5ukfMpI0mTH8lMNzJwp/S9a74SgsMsKNIx9IGtVprh9TLAqkef8p40\nUd0eKxW29EAbmp85Grb/NKqT3IF0k43pHJtl99tsEQKBgQDAr6WybKGZhVy1i/KY\n0hHuCbxuAIp5Y/4urOO9a62nthak3BmWtXVVchKnyY+iJ1mO14fip2ohVChS38t6\n8SIRIJQQPUeCVT1YJX597Uddshvl6ocB88kKv+0o/SVgYh5zzPiQat/xiYTdiBDo\n+hZZjr1sDtWWMT8KL6+kTpc2GQKBgQC2rm9fsi7adX9iRMZ+Sg1Qwuw9XOCrxIdP\nfLGXj9mLtoc4T6DA5n2JD7N7RSS573csoqp/IzwpdqEdz/HuviQkYwY3g4QtI2wU\nzFN4OfPMR+WjCl5kTkwpNMOnjEtMPvi9fpu5/9x00xIC7KS46+GI8SvjHUYZe/8w\njhkOjaNSxQKBgQC1VNc/iWGu40VzCGfej1sWQ41TjCjEwmhTrpqICUycVw0KSqO+\nI7hvF/IceuAz/ooWlhioIVsMUHG+RCPu5/xiV+FfQvwH2IXpbSeUBHez4kjE3yf8\nm1qoRiQ+/bRt9wine86zwhBL81nZTRJ03d2onF8A0RkJxgCIaoYFv3woCQKBgEPF\neMn+t4USG/zf2OeXH1N7zNqC71Kp6Szi7Jt2oVVElOueFtwZZi8H5STxJMvZ+9NS\nUYAzGSmkuebucymH3q6lEfRcVRfN0VXx63FpxnldnuKagSQjK/wJeCBbWr/hiLP8\nGVeqhSXN/BuboQx9bcE4/3gVLyFbL/Pac49DmnilAoGBAJUPK4qfSUIVNKOwO84y\nRwLOHEYHYrUrYNRPmcN+BNcVFSeYuvoUwyBnzFrFesUIE7rtsMMRZyf2WnPTTukP\ntZjp98iNkutSD2DzdCVHohhdlF9sH28ekDxAPajlcvc5hMZfst9UZDop3uBrAB8M\nhWmZ/ENM5lpdBLntwS8nrqmH\n-----END PRIVATE KEY-----\n",
+  "client_email": "ray-nthu-project@nthu-project-427703.iam.gserviceaccount.com",
+  "client_id": "117951275356691468506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ray-nthu-project%40nthu-project-427703.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
