@@ -1,0 +1,3 @@
+[submodule "HumeAI_practice"]
+	path = HumeAI_practice
+	url = https://github.com/HumeAI/hume-python-sdk.git
